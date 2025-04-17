@@ -63,7 +63,7 @@ export default class AboutMenu extends Component {
         title={subheading.title}
         content={subheading.content}
         active={activeSubheadings === index + 1}
-        onClick={()=> this.handleSubheadingClick(index + 1)}
+        onClick={()=> this.handleSubheadingsClick(index + 1)}
         menuItem={activeMenuItem}
         />
       ))}

@@ -5,7 +5,7 @@ const SubheadingsData = {
             content: (
                 <>
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce faucibus nisi id egestas commodo. Fusce quis mauris scelerisque, aliquet odio et, consequat dui. Suspendisse egestas orci ut mi tincidunt, a rutrum metus elementum. Aliquam vitae iaculis quam. Nullam ipsum risus, porta bibendum dapibus quis, placerat vel urna. Vestibulum non erat dui. Aenean condimentum elit nibh, et sagittis sem tincidunt a. Mauris fringilla tellus eget tortor lacinia, sit amet molestie tortor lacinia. Mauris facilisis tempor fringilla. Duis efficitur, risus nec dignissim efficitur, dui dui suscipit metus, vel pretium lorem nulla ac diam.
+                    My name is slim shady
                 </p>
                 </>
             ),
@@ -17,7 +17,7 @@ const SubheadingsData = {
             content: (
                 <>
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce faucibus nisi id egestas commodo. Fusce quis mauris scelerisque, aliquet odio et, consequat dui. Suspendisse egestas orci ut mi tincidunt, a rutrum metus elementum. Aliquam vitae iaculis quam. Nullam ipsum risus, porta bibendum dapibus quis, placerat vel urna. Vestibulum non erat dui. Aenean condimentum elit nibh, et sagittis sem tincidunt a. Mauris fringilla tellus eget tortor lacinia, sit amet molestie tortor lacinia. Mauris facilisis tempor fringilla. Duis efficitur, risus nec dignissim efficitur, dui dui suscipit metus, vel pretium lorem nulla ac diam.
+                    I did a thing
                 </p>
                 </>
             ),
@@ -27,7 +27,7 @@ const SubheadingsData = {
             content: (
                 <>
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce faucibus nisi id egestas commodo. Fusce quis mauris scelerisque, aliquet odio et, consequat dui. Suspendisse egestas orci ut mi tincidunt, a rutrum metus elementum. Aliquam vitae iaculis quam. Nullam ipsum risus, porta bibendum dapibus quis, placerat vel urna. Vestibulum non erat dui. Aenean condimentum elit nibh, et sagittis sem tincidunt a. Mauris fringilla tellus eget tortor lacinia, sit amet molestie tortor lacinia. Mauris facilisis tempor fringilla. Duis efficitur, risus nec dignissim efficitur, dui dui suscipit metus, vel pretium lorem nulla ac diam.
+                    I did this too lmao
                 </p>
                 </>
             ),
@@ -39,7 +39,7 @@ const SubheadingsData = {
             content: (
                 <>
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce faucibus nisi id egestas commodo. Fusce quis mauris scelerisque, aliquet odio et, consequat dui. Suspendisse egestas orci ut mi tincidunt, a rutrum metus elementum. Aliquam vitae iaculis quam. Nullam ipsum risus, porta bibendum dapibus quis, placerat vel urna. Vestibulum non erat dui. Aenean condimentum elit nibh, et sagittis sem tincidunt a. Mauris fringilla tellus eget tortor lacinia, sit amet molestie tortor lacinia. Mauris facilisis tempor fringilla. Duis efficitur, risus nec dignissim efficitur, dui dui suscipit metus, vel pretium lorem nulla ac diam.
+                    Im good
                 </p>
                 </>
             ),
@@ -49,7 +49,7 @@ const SubheadingsData = {
             content: (
                 <>
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce faucibus nisi id egestas commodo. Fusce quis mauris scelerisque, aliquet odio et, consequat dui. Suspendisse egestas orci ut mi tincidunt, a rutrum metus elementum. Aliquam vitae iaculis quam. Nullam ipsum risus, porta bibendum dapibus quis, placerat vel urna. Vestibulum non erat dui. Aenean condimentum elit nibh, et sagittis sem tincidunt a. Mauris fringilla tellus eget tortor lacinia, sit amet molestie tortor lacinia. Mauris facilisis tempor fringilla. Duis efficitur, risus nec dignissim efficitur, dui dui suscipit metus, vel pretium lorem nulla ac diam.
+                    yea yea yea
                 </p>
                 </>
             ),
@@ -59,7 +59,7 @@ const SubheadingsData = {
             content: (
                 <>
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce faucibus nisi id egestas commodo. Fusce quis mauris scelerisque, aliquet odio et, consequat dui. Suspendisse egestas orci ut mi tincidunt, a rutrum metus elementum. Aliquam vitae iaculis quam. Nullam ipsum risus, porta bibendum dapibus quis, placerat vel urna. Vestibulum non erat dui. Aenean condimentum elit nibh, et sagittis sem tincidunt a. Mauris fringilla tellus eget tortor lacinia, sit amet molestie tortor lacinia. Mauris facilisis tempor fringilla. Duis efficitur, risus nec dignissim efficitur, dui dui suscipit metus, vel pretium lorem nulla ac diam.
+                    Pro u know
                 </p>
                 </>
             ),
