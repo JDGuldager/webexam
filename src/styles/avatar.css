@@ -15,7 +15,7 @@
     height: 190vh;
     bottom: -110vh;
     left: 1.5rem;
-    transform: translateX(0%) scaleX(-1);
+    transform: translateX(-15%) scaleX(-1);
 }
 
 .shadow-overlay-skills{

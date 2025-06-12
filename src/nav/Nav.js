@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 import { Link, useLocation } from 'react-router-dom'
-import astronautHelmet from "../assets/astronaut-helmet.png"
-import deadEye from "../assets/dead-eye.png"
-import stack from "../assets/stack.png"
-import envelope from "../assets/envelope.png"
+import astronautHelmet from "../assets/user-128.png"
+import deadEye from "../assets/brain-128.png"
+import stack from "../assets/database-128.png"
+import envelope from "../assets/email-3-128.png"
 import "../styles/nav.css"
 
 export default function Nav() {

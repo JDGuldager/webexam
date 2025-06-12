@@ -3,7 +3,7 @@
     position: fixed;
     display: flex;
     flex-direction: column;
-    top: 60%;
+    top: 70%;
     transform: translateY(-60%);
     left: 10vw;
 }
@@ -30,7 +30,7 @@
     position: fixed;
     display: flex;
     flex-direction: column;
-    top: 32%;
+    top: 39%;
     right: 10vw;
     cursor: pointer;
 }
@@ -40,15 +40,15 @@
 }
 
 .item.active:nth-child(1){
-    background: linear-gradient(90deg, var(--transparent), var(--purple) 70%);
+    background: linear-gradient(90deg, var(--transparent), var(--black) 70%);
     border-radius: var(--radius-right);
 }
 .item.active:nth-child(2){
-    background: linear-gradient(90deg, var(--transparent), var(--blue) 70%);
+    background: linear-gradient(90deg, var(--transparent), var(--black) 70%);
     border-radius: var(--radius-right);
 }
 .item.active:nth-child(3){
-    background: linear-gradient(90deg, var(--transparent), var(--cyan) 70%);
+    background: linear-gradient(90deg, var(--transparent), var(--black) 70%);
     border-radius: var(--radius-right);
 }
 
@@ -59,13 +59,13 @@
 }
 
 .sub-container-1.active-subheading h3{
-    background: linear-gradient(90deg, var(--purple), var(--transparent) 100%);
+    background: linear-gradient(90deg, var(--black), var(--transparent) 100%);
 }
 .sub-container-2.active-subheading h3{
-    background: linear-gradient(90deg, var(--blue), var(--transparent) 100%);
+    background: linear-gradient(90deg, var(--black), var(--transparent) 100%);
 }
 .sub-container-3.active-subheading h3{
-    background: linear-gradient(90deg, var(--cyan), var(--transparent) 100%);
+    background: linear-gradient(90deg, var(--black), var(--transparent) 100%);
 }
 
 .item.active{

@@ -33,11 +33,11 @@
 }
 
 .skill-item.activeSkill:nth-child(1){
-    background: linear-gradient(270deg, #ffffff00, var(--purple) 70%);
+    background: linear-gradient(270deg, #ffffff00, var(--black) 70%);
 }
 
 .skill-item.activeSkill:nth-child(2){
-    background: linear-gradient(270deg, #ffffff00, var(--blue) 70%);
+    background: linear-gradient(270deg, #ffffff00, var(--black) 70%);
 }
 
 .skill-icon{
@@ -83,10 +83,10 @@ border-radius: 0.2rem;
 }
 
 .filled{
-    background: linear-gradient(180deg, #236473, #25afce,#7ce7ff);
+    background: linear-gradient(180deg, #259ab4, #10839c,#0e6b80);
 }
 .unfilled{
-    background: linear-gradient(180deg, #1c8298, #074654,#074654);
+    background: linear-gradient(180deg,#ffffff7a, #ffffff62,#ffffff70);
 }
 
 .skill-sub-container {

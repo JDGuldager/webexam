@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import AboutMenuItem from "./AboutMenuItem";
 import AboutSubheadings from "./AboutSubheadings";
 import SubheadingsData from "./SubheadingsData";
-import personalIcon from "../assets/moebius-triangle.png";
+import personalIcon from "../assets/denmark.png";
 import educationIcon from "../assets/upgrade.png"
 import careerIcon from "../assets/triple-corn.png"
 

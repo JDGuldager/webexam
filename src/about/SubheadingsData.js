@@ -5,7 +5,7 @@ const SubheadingsData = {
             content: (
                 <>
                 <p>
-                    My name is slim shady
+                    My name is Jeppe Dahl Guldager
                 </p>
                 </>
             ),
@@ -13,21 +13,21 @@ const SubheadingsData = {
     ],
     2:[
         {
-            title: "2016 Masters",
+            title: "2025 Bachelor",
             content: (
                 <>
                 <p>
-                    I did a thing
+                    I'll probably get through lol
                 </p>
                 </>
             ),
         },
         {
-            title: "2014 Bachelor",
+            title: "2017 HTX",
             content: (
                 <>
                 <p>
-                    I did this too lmao
+                    Long long ago
                 </p>
                 </>
             ),
@@ -35,31 +35,31 @@ const SubheadingsData = {
     ],
     3:[
         {
-            title: "2022 Front End Dev",
+            title: "2025 Zoo Copenhagen",
             content: (
                 <>
                 <p>
-                    Im good
+                    I sell merch
                 </p>
                 </>
             ),
         },
         {
-            title: "2020 UX Designer",
+            title: "2022 Window Cleaner",
             content: (
                 <>
                 <p>
-                    yea yea yea
+                    Climbed and stuff
                 </p>
                 </>
             ),
         },
         {
-            title: "IT Consultant",
+            title: "2019 PlayStation Support",
             content: (
                 <>
                 <p>
-                    Pro u know
+                    Took calls
                 </p>
                 </>
             ),

@@ -4,12 +4,12 @@ import projectThree from "../assets/project-3.png";
 
 const projects = {
     1: {
-        title: "SoMe Platform",
+        title: "VRSteps",
         image: projectOne,
-        desciption: (
+        description: (
             <>
             <p>
-                Lorem ipsum
+                6th semester project (Bachelor)
             </p>
             </>
         ),
@@ -17,12 +17,12 @@ const projects = {
         demo: "https://github.com/JDGuldager"
     },
      2: {
-        title: "Sumsum",
+        title: "VRehabilitation",
         image: projectTwo,
-        desciption: (
+        description: (
             <>
             <p>
-                Lorem ipsum
+                5th semester project
             </p>
             </>
         ),
@@ -30,12 +30,12 @@ const projects = {
         demo: "https://github.com/JDGuldager"
     },
      3: {
-        title: "Turd",
+        title: "Unreal Engine Story Game",
         image: projectThree,
-        desciption: (
+        description: (
             <>
             <p>
-                Lorem ipsum
+                4th semester project
             </p>
             </>
         ),

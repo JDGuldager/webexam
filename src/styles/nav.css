@@ -39,6 +39,10 @@ a {
     opacity: 0.7;
 }
 
+.nav-link img{
+        width: 3rem;
+    }
+
 .nav-link:hover{
     opacity: 1;
 }
